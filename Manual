@@ -1,0 +1,4 @@
+Simon Says:
+1.	Press the difficulty button to increase the difficulty of the game. There are 4 difficulties, the difficulty level only affects the time between the flashes.
+2.	Press start, the game will create a sequence of 10 random numbers between 1 & 3. It will display these trough the LED’s on top of the game. After the sequence is shown use the colored tags to represent the colored LED’s. Tag in the order the lights are shown.
+3.	The game will check if the tagged tags are correct and if you complete the game by remembering the order of the 10 LED’s it will add one to your winstreak.
